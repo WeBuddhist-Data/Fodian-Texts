@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-INBOX/texts/chinese/toh555-tai665-zh-hans.md",
+                "file": "0-INBOX/texts/chinese/tohaaab55-tai665-zh-hans.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "toh555-tai665-zh-hans"
+              "title": "tohaaab55-tai665-zh-hans"
             }
           }
         ]
@@ -203,7 +203,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -218,10 +219,10 @@
       "gemini-scribe:Gemini Scribe: Agent Mode": false
     }
   },
-  "active": "2f78d70f1548deb8",
+  "active": "199ba05ef12fe515",
   "lastOpenFiles": [
+    "0-INBOX/texts/chinese/tohaaab55-tai665-zh-hans.md",
     "0-INBOX/texts/tibetan/toh555-tai665-bo.md",
-    "0-INBOX/texts/chinese/toh555-tai665-zh-hans.md",
     "0-INBOX/new data/Tibetan/toh0115-bo.md",
     "0-INBOX/new data/Tibetan/toh16-bo.md",
     "0-INBOX/texts/tibetan/toh0026-bo.md",
