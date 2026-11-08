@@ -102,8 +102,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "08fb4a0a47ab3b49",
@@ -220,7 +219,7 @@
       "gemini-scribe:Gemini Scribe: Agent Mode": false
     }
   },
-  "active": "2f78d70f1548deb8",
+  "active": "15014ceefa497d3c",
   "lastOpenFiles": [
     "0-INBOX/texts/tibetan/toh555-tai665-bo.md",
     "0-INBOX/texts/chinese/tohaaab55-tai665-zh-hans.md",
