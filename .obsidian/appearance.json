@@ -4,5 +4,6 @@
   "enabledCssSnippets": [
     "tibetan",
     "cjk-tibetan"
-  ]
+  ],
+  "showRibbon": true
 }
